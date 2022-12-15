@@ -23,7 +23,7 @@ The Ride You Rent requires the following applicaitons to run:
 2. Install .Net 3.1 SDK inc.
 [.Net SDK](https://dotnet.microsoft.com/en-us/download)
 3. Once your installation process is complete open the zipped folder to access its content. 
-4. Open Visual Studios and open TimeManagement.sln to open the application.
+4. Open Visual Studios and open the program solution sln to open the application.
 5. You can then begin to run the application.
 6. Once the program is running, click Start to begin or Exit to close the application.
 7. Record Modules , Once done click No to stop recording modules when you've reached your desired amount.
